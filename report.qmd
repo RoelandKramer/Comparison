@@ -1,0 +1,28 @@
+---
+title: "Player comparison: Hilton vs X & Y"
+subtitle: "Bridge Football Group"
+format:
+  html:
+    toc: false
+    number-sections: true
+    theme: cosmo
+    css: styles.css
+---
+
+# Spider charts for comparison
+
+## Defensive comparison
+<iframe class="chart-iframe fullbleed" src="charts/01_defensive_comparison.html" loading="lazy"></iframe>
+
+## On the ball
+<iframe class="chart-iframe fullbleed" src="charts/02_on_the_ball.html" loading="lazy"></iframe>
+
+## Attacking mindedness
+<iframe class="chart-iframe fullbleed" src="charts/03_attacking_mindedness.html" loading="lazy"></iframe>
+
+# Risk vs reward
+<iframe class="chart-iframe fullbleed risk" src="charts/04_risk_vs_reward.html" loading="lazy"></iframe>
+
+<div class="notes">
+Compare risk vs reward. Adjust the axes using the dropdown to compare different variables.
+</div>
